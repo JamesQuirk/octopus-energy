@@ -1,6 +1,6 @@
 # octopus-energy
 
-Analytics of electricity usage from Octopus Energy using their [API](https://octopus.energy/dashboard/developer/)
+Analytics of electricity usage from Octopus Energy using their [API](https://developer.octopus.energy/docs/api/).
 
 The dashboard is created using [Dash along with Plotly](https://dash.plotly.com). Below is an early version of the dashboard.
 
